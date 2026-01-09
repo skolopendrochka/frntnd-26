@@ -71,29 +71,29 @@ em {
 
 
 header {
-    background-color: #f0fff0; /* Светло-зеленый фон для шапки */
-    padding: 1rem;             /* Внутренние отступы со всех сторон */
-    text-align: center;        /* Выравниваем содержимое по центру */
+    background-color: #f0fff0; 
+    padding: 1rem;             
+    text-align: center;       
 
 }
 
 header img {
-    width: 80px;  /* Фиксированная ширина */
-    height: 80px; /* Фиксированная высота */
-    object-fit: contain; /* Сохраняет пропорции */
+    width: 80px;  
+    height: 80px; 
+    object-fit: contain; 
     margin: 0 auto 1rem;
     display: block;
 }
 
 header nav ul {
-    list-style: none; /* Убираем маркеры списка */
-    padding-left: 0;  /* Убираем отступ слева */
-    margin: 0;        /* Убираем все отступы */
+    list-style: none; 
+    padding-left: 0;  
+    margin: 0;       
 }
 
 header nav li {
-    display: inline;  /* Пункты меню в одну строку */
-    margin: 0 0.5rem; /* Отступы между пунктами меню */
+    display: inline;  
+    margin: 0 0.5rem; 
 }
 
 header nav a {
@@ -139,3 +139,4 @@ footer nav li {
     display: inline;
     margin: 0 0.5rem;
 }
+
